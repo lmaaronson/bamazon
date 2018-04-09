@@ -1,0 +1,26 @@
+{
+  "name": "bamazon-la",
+  "version": "1.0.0",
+  "description": "my homework assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmaaronson/bamazon.git"
+  },
+  "author": "laurie aaronson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmaaronson/bamazon/issues"
+  },
+  "homepage": "https://github.com/lmaaronson/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "init": "^0.1.2",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "sql": "^0.78.0"
+  }
+}
